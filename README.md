@@ -6,11 +6,11 @@ Web Developer and Video editor
 
 I'm , a passionate coder on a journey of continuous learning and growth. 
 
--🎥 In my previous life, I wielded cameras and edited videos as a video editor and videographer. A little over a year and a half ago, I decided to switch gears and delve into the world of coding. It's been an exhilarating journey of exploration and discovery.
--💻 Armed with my past experiences, I'm not just a coder; I'm a storyteller crafting narratives in both visuals and code. My transition from video editing to coding has equipped me with a unique perspective, enabling me to infuse creativity and problem-solving into my projects. 
--🚀 I specialize in front-end development, where I bring together my artistic sensibilities with my coding skills to build intuitive and visually appealing user interfaces. I love the challenge of turning a blank canvas into a dynamic, user-friendly experience. 
--📚 Learning has become a way of life for me, and every line of code is a step toward mastering my craft. I am excited about the endless possibilities that coding offers and the potential to make a positive impact through technology. 
--👨‍💻 Let's connect and collaborate! I'm always open to new opportunities, challenges, and learning from fellow enthusiasts.
+- 🎥 In my previous life, I wielded cameras and edited videos as a video editor and videographer. A little over a year and a half ago, I decided to switch gears and delve into the world of coding. It's been an exhilarating journey of exploration and discovery.
+- 💻 Armed with my past experiences, I'm not just a coder; I'm a storyteller crafting narratives in both visuals and code. My transition from video editing to coding has equipped me with a unique perspective, enabling me to infuse creativity and problem-solving into my projects. 
+- 🚀 I specialize in front-end development, where I bring together my artistic sensibilities with my coding skills to build intuitive and visually appealing user interfaces. I love the challenge of turning a blank canvas into a dynamic, user-friendly experience. 
+- 📚 Learning has become a way of life for me, and every line of code is a step toward mastering my craft. I am excited about the endless possibilities that coding offers and the potential to make a positive impact through technology. 
+- 👨‍💻 Let's connect and collaborate! I'm always open to new opportunities, challenges, and learning from fellow enthusiasts.
 Together, let's code the future! 🌐✨
 
 * 🌍  I'm based in Montevideo, Uruguay 🇺🇾
